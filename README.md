@@ -1,4 +1,4 @@
-# Robotica-Inclusiva
+# Robotica Inclusiva
 Esse repositório contém projetos pessoais e em grupo da disciplina de Robótica Inclusiva, no 4° período. 
 Cada projeto busca conhecer e utilizar componentes diferentes disponibilizados pela universidade. 
 
